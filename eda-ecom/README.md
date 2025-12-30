@@ -26,7 +26,7 @@
 ---
 
 ## Описание данных
-Данные представляют собой датасет **eCommerce events history in electronics store** с платформы Kaggle. Основные поля:
+Данные представляют собой датасет [eCommerce events history in electronics store](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-electronics-store/data) с платформы Kaggle. Основные поля:
 
 - `event_time` — время совершения события,  
 - `event_type` — тип события (`view`, `cart`, `purchase`),  
